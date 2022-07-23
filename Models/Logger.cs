@@ -6,12 +6,12 @@
             CreateFileAndFolder(path);
         }
 
-        public static void LogLogin(User user) {
+        public static void Login(User user) {
             string line = $"{DateTime.Now.ToString()}\tUsuário {user.Name} (id: {user.Id}) logou no sistema.";
             AppendLine(path, line);
         }
-        public static void LogLogoff(User user) {
-            string line = $"{DateTime.Now.ToString()}\tUsuário {user.Name} (id: {user.Id}) deslogou no sistema.";
+        public static void Logoff(User user) {
+            string line = $"{DateTime.Now.ToString()}\tUsuário {user.Name} (id: {user.Id}) deslogou do sistema.";
             AppendLine(path, line);
         }
     }

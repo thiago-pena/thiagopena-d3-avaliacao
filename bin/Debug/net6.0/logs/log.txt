@@ -1,1 +1,4 @@
-23/07/2022 19:04:43	Usuário Thiago Pena (id: 2758e8cf-e0a6-48c4-abf9-fd0e6ae61f72) logou no sistema.
+23/07/2022 19:28:18	Usuário Admin (id: 53509b82-a351-426c-8a92-e60f63759768) logou no sistema.
+23/07/2022 19:28:20	Usuário Admin (id: 53509b82-a351-426c-8a92-e60f63759768) deslogou do sistema.
+23/07/2022 19:28:27	Usuário Thiago Pena (id: 2758e8cf-e0a6-48c4-abf9-fd0e6ae61f72) logou no sistema.
+23/07/2022 19:28:28	Usuário Thiago Pena (id: 2758e8cf-e0a6-48c4-abf9-fd0e6ae61f72) deslogou do sistema.
